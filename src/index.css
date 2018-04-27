@@ -1,0 +1,18 @@
+body {
+  margin: 20;
+  padding: 10;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+label {
+  margin: 80;
+  padding: 60;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+field {
+  margin: 80;
+  padding: 60;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
